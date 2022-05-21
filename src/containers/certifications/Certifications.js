@@ -6,7 +6,7 @@ import CertificationCard from '../../components/certificationCard/CertificationC
 
 export default function Certifications() {
   return (
-    <Fade bottom duration={1000} distance="20px">
+    <Fade bottom duration={2000} distance="20px">
     <div className="main" id="certs">
 			<h1 className="cert-header-title">Certifications</h1>
       <div className="cert-main-div">

@@ -16,7 +16,7 @@ export default function Greeting() {
               <h1 className="greeting-text">
                 {" "}
                 {greeting.title}{" "}
-                <span className="wave-emoji">{emoji("👋")}</span>
+               
               </h1>
               <p className="greeting-text-p subTitle">{greeting.subTitle}</p>
               <SocialMedia />

@@ -5,10 +5,11 @@ import emoji from "react-easy-emoji";
 // Your Summary And Greeting Section
 
 const greeting = {
-  username: "Bharat Kammakatla",
-  title: "Hi all, I'm Bharat",
+  username: "KHALID Abdellah",
+  title: "Abdellah KHALID | Developer",
   subTitle: emoji(
-    "Front End Developer 👨‍💻 | Test Automation Engineer 🤖 | Tech Writer ✍️ "
+    "Hi, my name is Abdellah KHALID. I’m an Android Developer and technology enthusiast. Love working on a new and exciting projects, "
+    +" sharing my knowledge with others, and always willing to learn more"
   ),
   resumeLink:
     "https://drive.google.com/file/d/1gsPhoU4Dg-bFSlf3K-SFrKHO0XTBpS0i/view?usp=sharing",
@@ -17,11 +18,11 @@ const greeting = {
 // Your Social Media Link
 
 const socialMediaLinks = {
-  github: "https://github.com/bharatkammakatla",
+  github: "https://github.com/khalidabdou",
   linkedin: "https://www.linkedin.com/in/bharatkammakatla",
-  gmail: "bharatkammakatla@gmail.com",
-  facebook: "https://www.facebook.com/bharat.kammakatla",
-  twitter: "https://twitter.com/Bharat__K",
+  gmail: "khald.abdou12@gmail.com",
+  facebook: "https://www.facebook.com/khalld.m",
+  twitter: "https://twitter.com/***",
 };
 
 // Your Skills Section
@@ -32,25 +33,26 @@ const skillsSection = {
     "HANDLING ALL TEST AUTOMATION ACTIVITIES AND EXPLORING DATA SCIENCE",
   skills: [
     emoji(
-      "⚡ Designing and developing Test Automation frameworks using Python and Java"
+      "buidling and deploying android applications using Java with xml, Kotlin Modern UI Toolkit called Jetpack Compose., and Android Studio"
     ),
-    emoji("⚡ End to End automation executions"),
+    emoji("End to End automation executions"),
     emoji(
-      "⚡ Working on test automation tools like Selenium, Appium, UFT, SoapUI, AutoIT, Katalon Studio, Seetest Mobile Cloud administration, etc"
+      "Working on test automation tools like Selenium, Appium, UFT, SoapUI, AutoIT, Katalon Studio, Seetest Mobile Cloud administration, etc"
     ),
     emoji(
-      "⚡ Building predictive models to extract insights and make decisions out of data"
+      "Building predictive models to extract insights and make decisions out of data"
     ),
   ],
 
   softwareSkills: [
     {
-      skillName: "python",
-      classname: "logos:python",
+      skillName: "Kotlin",
+      classname: "logos:kotlin",
       style: {
         backgroundColor: "transparent",
       },
     },
+  
     {
       skillName: "java",
       classname: "logos:java",
@@ -59,15 +61,15 @@ const skillsSection = {
       },
     },
     {
-      skillName: "reactJS",
-      classname: "simple-icons:react",
+      skillName: "node js",
+      classname: "simple-icons:nodejs",
       style: {
         color: "#61DAFB",
       },
     },
     {
-      skillName: "maven",
-      classname: "vscode-icons:file-type-maven",
+      skillName: "mysql",
+      classname: "simple-icons:mysql",
       style: {
         backgroundColor: "transparent",
       },
@@ -80,41 +82,13 @@ const skillsSection = {
       },
     },
     {
-      skillName: "jenkins",
-      classname: "vscode-icons:file-type-jenkins",
+      skillName: "firebase",
+      classname: "logos:firebase",
       style: {
         backgroundColor: "transparent",
       },
     },
-    {
-      skillName: "postgres",
-      classname: "logos:postgresql",
-      style: {
-        backgroundColor: "transparent",
-      },
-    },
-    {
-      skillName: "tensorflow",
-      classname: "logos-tensorflow",
-      style: {
-        backgroundColor: "transparent",
-      },
-    },
-    {
-      skillName: "keras",
-      classname: "simple-icons:keras",
-      style: {
-        backgroundColor: "white",
-        color: "#D00000",
-      },
-    },
-    {
-      skillName: "flask",
-      classname: "simple-icons:flask",
-      style: {
-        backgroundColor: "transparent",
-      },
-    },
+
   ],
 };
 
