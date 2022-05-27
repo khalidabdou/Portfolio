@@ -19,7 +19,7 @@ const greeting = {
 
 const socialMediaLinks = {
   github: "https://github.com/khalidabdou",
-  linkedin: "https://www.linkedin.com/in/bharatkammakatla",
+  linkedin: "https://www.linkedin.com/in/",
   gmail: "khald.abdou12@gmail.com",
   facebook: "https://www.facebook.com/khalld.m",
   twitter: "https://twitter.com/***",
@@ -239,9 +239,9 @@ const blogSection = {
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
-    "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+852 51606863",
-  email_address: "bharatkammakatla@gmail.com",
+    "",
+  number: "+212 611680206",
+  email_address: "khald.abdou12@gmail.com",
 };
 
 export {
