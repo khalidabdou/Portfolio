@@ -9,7 +9,7 @@ const greeting = {
   title: "Abdellah KHALID | Developer",
   subTitle: emoji(
     "Hi, my name is Abdellah KHALID. I’m an Android Developer and technology enthusiast. Love working on a new and exciting projects, "
-    +" sharing my knowledge with others, and always willing to learn more"
+    + " sharing my knowledge with others, and always willing to learn more"
   ),
   resumeLink:
     "https://drive.google.com/file/d/1gsPhoU4Dg-bFSlf3K-SFrKHO0XTBpS0i/view?usp=sharing",
@@ -52,7 +52,7 @@ const skillsSection = {
         backgroundColor: "transparent",
       },
     },
-  
+
     {
       skillName: "java",
       classname: "logos:java",
@@ -236,6 +236,8 @@ const blogSection = {
   ],
 };
 
+
+
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
@@ -243,6 +245,54 @@ const contactInfo = {
   number: "+212 611680206",
   email_address: "khald.abdou12@gmail.com",
 };
+
+const Projects = {
+  projects: [
+    {
+      title: "Wishes App 'android'",
+      subtitle: "app for sharing wishes withs friends (images , quotes , stickers, wallpapers)",
+      picture: "https://img.freepik.com/free-vector/app-learn-languages_52683-43478.jpg?w=2000",
+      link: "",
+      color_code: ""
+    },
+     {
+      title: "Test Friendships 'android'",
+      subtitle: "android app for creating friendships test ",
+      picture: "https://img.freepik.com/free-vector/app-learn-languages_52683-43478.jpg?w=2000",
+      link: "",
+      color_code: ""
+    },
+     {
+      title: "Quiz App for kids 'android'",
+      subtitle: "android app for kids to learn tamazight language",
+      picture: "https://img.freepik.com/free-vector/app-learn-languages_52683-43478.jpg?w=2000",
+      link: "",
+      color_code: ""
+    },
+    {
+      title: "Wishes Dashboard and Api 'NodeJs'",
+      subtitle: "app for sharing wishes withs friends",
+      picture: "https://img.freepik.com/free-vector/app-learn-languages_52683-43478.jpg?w=2000",
+      link: "",
+      color_code: ""
+    },
+     {
+      title: "wishes  'Flutter'",
+      subtitle: "app showing wishes withs friends ",
+      picture: "https://img.freepik.com/free-vector/app-learn-languages_52683-43478.jpg?w=2000",
+      link: "",
+      color_code: ""
+    },
+     {
+      title: "Stcikers App 'android'",
+      subtitle: "app stickers for whatsapp using jetpack compose",
+      picture: "https://img.freepik.com/free-vector/app-learn-languages_52683-43478.jpg?w=2000",
+      link: "",
+      color_code: ""
+    },
+  ]
+};
+
 
 export {
   greeting,
@@ -253,4 +303,5 @@ export {
   blogSection,
   contactInfo,
   certifications,
+  Projects,
 };
