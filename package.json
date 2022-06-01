@@ -1,6 +1,6 @@
 {
-  "homepage": "https://bharatkammakatla.com/",
-  "name": "bharatkammakatla.com",
+  "homepage": "http://206.189.121.105:3002/",
+  "name": "dev.khalid.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -16,7 +16,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "start": "node fetch.js && react-scripts start",
+    "start": "node fetch.js && set PORT=3002 &&  react-scripts start",
     "build": "node fetch.js && react-scripts build",
     "deploy": "gh-pages -b master -d build",
     "test": "react-scripts test",

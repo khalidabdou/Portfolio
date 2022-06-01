@@ -54,13 +54,7 @@ export default function socialMedia() {
       :
       null}
 
-      {socialMediaLinks.twitter ?
-      <a href={socialMediaLinks.twitter} className="icon-button twitter" target="_blank">
-        <i className="fab fa-twitter"></i>
-        <span></span>
-      </a>
-      :
-      null}
+    
 
     </div>
   );

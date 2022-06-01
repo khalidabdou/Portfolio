@@ -8,7 +8,7 @@ import Blogs from "./blogs/Blogs";
 import Footer from "../components/footer/Footer";
 import Top from "./topbutton/Top";
 import Profile from "./profile/Profile";
-import Certifications from "./certifications/Certifications";
+
 
 export default class Main extends Component {
   render() {
@@ -17,10 +17,10 @@ export default class Main extends Component {
         <Header />
         <Greeting />
         <Skills />
-        <WorkExperience />
-       
-        <Certifications />
+        <WorkExperience />       
+        <Projects />
         <Blogs />
+        
         <Profile />
         <Footer />
         <Top />

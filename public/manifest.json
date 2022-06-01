@@ -1,9 +1,9 @@
 {
-  "short_name": "Bharat Kammakatla",
-  "name": "Bharat Kammakatla",
+  "short_name": "abdellah khalid",
+  "name": "abdellah khalid",
   "icons": [
     {
-      "src": "/favicon.ico",
+      "src": "/meta_pic.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     }

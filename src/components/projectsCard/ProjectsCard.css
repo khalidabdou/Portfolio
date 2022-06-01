@@ -1,37 +1,44 @@
 .cert-card {
-    display: inline-block;
-    justify-content:center;
-    align-items: center;
-    text-align: center;
-    border-radius: 10px;
-    box-shadow: 0 0 36px rgba(0, 0, 0, 0.1);
-    flex: 0 0 30%;
+  display: inline-block;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 0 0 36px rgba(0, 0, 0, 0.1);
+  flex: 0 0 30%;
 }
 
 .cert-header {
-    margin: 0px;
-    border-radius: 10px 10px 0px 0px;
+  margin: 0px;
+  border-radius: 10px 10px 0px 0px;
 }
 
 .logo_img {
-    margin: 3px;
-    width: auto;
-    height: 100px;
+  margin: 3px;
+  width: auto;
+  height: 100px;
 }
 
 .cert-body {
-    margin: 0px;
+  margin: 0px;
 }
 
 .cert-body-title {
-    font-size: 20px;
-    margin: 10px;
+  font-size: 20px;
+  margin: 10px;
+}
+
+.cert-body-image {
+  
+  height: 250px;
+  background-position: center center;
+  background-repeat: no-repeat;
 }
 
 .cert-body-subtitle {
-    font-size: 17px;
-    color: #808080;
-    margin: 10px;
+  font-size: 17px;
+  color: #808080;
+  margin: 10px;
 }
 
 .content {
@@ -43,7 +50,7 @@
 }
 
 .content .content-overlay {
-  background: rgba(0,0,0,0.7);
+  background: rgba(0, 0, 0, 0.7);
   position: absolute;
   height: 99%;
   width: 100%;
@@ -57,7 +64,7 @@
   transition: all 0.4s ease-in-out 0s;
 }
 
-.content:hover .content-overlay{
+.content:hover .content-overlay {
   opacity: 1;
 }
 
@@ -79,13 +86,13 @@
   transition: all 0.3s ease-in-out 0s;
 }
 
-.content:hover .content-details{
+.content:hover .content-details {
   top: 50%;
   left: 50%;
   opacity: 1;
 }
 
-.content-details h3{
+.content-details h3 {
   color: #fff;
   font-weight: 500;
   letter-spacing: 0.15em;
@@ -93,7 +100,7 @@
   text-transform: uppercase;
 }
 
-.fadeIn-top{
+.fadeIn-top {
   top: 20%;
 }
 
