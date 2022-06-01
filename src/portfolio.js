@@ -12,17 +12,17 @@ const greeting = {
     + " sharing my knowledge with others, and always willing to learn more"
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1gsPhoU4Dg-bFSlf3K-SFrKHO0XTBpS0i/view?usp=sharing",
+    "https://www.linkedin.com/in/abdellah-khalid",
 };
 
 // Your Social Media Link
 
 const socialMediaLinks = {
   github: "https://github.com/khalidabdou",
-  linkedin: "https://www.linkedin.com/in/",
-  gmail: "khald.abdou12@gmail.com",
+  linkedin: "https://www.linkedin.com/in/abdellah-khalid",
   facebook: "https://www.facebook.com/khalld.m",
-  twitter: "https://twitter.com/***",
+  instagram: "https://www.instagram.com/android_dev_khalid/",
+  
 };
 
 // Your Skills Section
@@ -30,14 +30,13 @@ const socialMediaLinks = {
 const skillsSection = {
   title: "What i do",
   subTitle:
-    "HANDLING ALL TEST AUTOMATION ACTIVITIES AND EXPLORING DATA SCIENCE",
+    "HANDLING ALL OF THESE TECHNOLOGIE",
   skills: [
     emoji(
       "buidling and deploying android applications using Java with xml, Kotlin Modern UI Toolkit called Jetpack Compose., and Android Studio"
     ),
-    emoji("End to End automation executions"),
     emoji(
-      "Working on test automation tools like Selenium, Appium, UFT, SoapUI, AutoIT, Katalon Studio, Seetest Mobile Cloud administration, etc"
+      "building and deploying web applications using HTML, CSS, JavaScript, React, NodeJS, Express, and MongoDB"
     ),
     emoji(
       "Building predictive models to extract insights and make decisions out of data"
@@ -207,31 +206,10 @@ const blogSection = {
   blogs: [
     {
       url:
-        "https://blog.bharatkammakatla.com/selenium-python-automation-framework-how-to-build-cke5vij9p012h9ds1fsaocyax",
-      title: "How to build a Selenium Python Automation Framework",
+        "https://github.com/khalidabdou/TestFriends_JetPackCompose/blob/master/app/src/main/java/com/example/testfriends_jetpackcompose/screen/LoginScreen.kt",
+      title: "UI LOGIN USING JETPACK COMPOSE",
       description:
-        "Interested in building a test automation framework with selenium and python? If so, check out here !",
-    },
-    {
-      url:
-        "https://blog.bharatkammakatla.com/steps-to-build-a-selenium-java-framework-ckdsi73xg005ga9s1defhemfz",
-      title: "Steps to build a Selenium Java Automation Framework",
-      description:
-        "Interested in building a test automation framework with selenium and java? If so, check out here !",
-    },
-    {
-      url:
-        "https://blog.bharatkammakatla.com/face-expression-recognition-using-keras-and-cnns-ckbevmufo0195dis1dfs10kt1",
-      title: "Building a Machine Learning model to detect human emotions",
-      description:
-        "Are you interested to know how machines detect human emotions? If so, check out here !",
-    },
-    {
-      url:
-        "https://medium.com/@bharatkammakatla/basic-end-to-end-scikit-learn-workflow-cd9e9a50491b?source=friends_link&sk=b828ac262c172abd7508efcbd00e5bd3",
-      title: "Basic End-to-End Scikit-Learn workflow",
-      description:
-        "Do you want to know how a basic end-to-end scikit-learn workflow is implemented ? If so, check out here !",
+        "",
     },
   ],
 };
@@ -251,43 +229,50 @@ const Projects = {
     {
       title: "Wishes App 'android'",
       subtitle: "app for sharing wishes withs friends (images , quotes , stickers, wallpapers)",
-      picture: "https://img.freepik.com/free-vector/app-learn-languages_52683-43478.jpg?w=2000",
-      link: "",
+      picture: "https://www.appsflyer.com/wp-content/uploads/2021/10/Feature-image-917x480-2.png",
+      link: "https://github.com/khalidabdou/GreenChina",
       color_code: ""
     },
      {
       title: "Test Friendships 'android'",
       subtitle: "android app for creating friendships test ",
-      picture: "https://img.freepik.com/free-vector/app-learn-languages_52683-43478.jpg?w=2000",
-      link: "",
+      picture: "https://www.appsflyer.com/wp-content/uploads/2021/10/Feature-image-917x480-2.png",
+      link: "https://github.com/khalidabdou/TestFriends_JetPackCompose",
+      color_code: ""
+    },
+    {
+      title: "Test Friendships 'API NODE JS'",
+      subtitle: "REST API for creating friendships test ",
+      picture: "https://www.objetconnecte.com/wp-content/uploads/2020/10/api-800x450.jpg",
+      link: "https://github.com/khalidabdou/TestFriends",
       color_code: ""
     },
      {
       title: "Quiz App for kids 'android'",
       subtitle: "android app for kids to learn tamazight language",
-      picture: "https://img.freepik.com/free-vector/app-learn-languages_52683-43478.jpg?w=2000",
-      link: "",
+      picture: "https://www.appsflyer.com/wp-content/uploads/2021/10/Feature-image-917x480-2.png",
+      link: "https://github.com/khalidabdou/QuizTamazight",
       color_code: ""
     },
     {
       title: "Wishes Dashboard and Api 'NodeJs'",
       subtitle: "app for sharing wishes withs friends",
-      picture: "https://img.freepik.com/free-vector/app-learn-languages_52683-43478.jpg?w=2000",
-      link: "",
+      picture: "https://www.objetconnecte.com/wp-content/uploads/2020/10/api-800x450.jpg",
+      link: "https://github.com/khalidabdou/dashboard",
       color_code: ""
     },
      {
       title: "wishes  'Flutter'",
       subtitle: "app showing wishes withs friends ",
-      picture: "https://img.freepik.com/free-vector/app-learn-languages_52683-43478.jpg?w=2000",
-      link: "",
+      picture: "https://i2.wp.com/mozartec.com/wp-content/uploads/2019/04/flutter.jpeg?fit=1500%2C750&ssl=1",
+      link: "https://github.com/khalidabdou/flutter_app",
       color_code: ""
     },
      {
       title: "Stcikers App 'android'",
       subtitle: "app stickers for whatsapp using jetpack compose",
-      picture: "https://img.freepik.com/free-vector/app-learn-languages_52683-43478.jpg?w=2000",
-      link: "",
+      picture: "https://www.appsflyer.com/wp-content/uploads/2021/10/Feature-image-917x480-2.png",
+      link: "https://github.com/khalidabdou/StickerJetpackComp",
       color_code: ""
     },
   ]
