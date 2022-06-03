@@ -1,5 +1,5 @@
 import React, { Component} from 'react';
-import "./ProjectsCard.css";
+import "./ProjectsCardi.css";
 import {Fade} from 'react-reveal';
 
 class CertificationCard extends Component {

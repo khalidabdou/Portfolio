@@ -36,11 +36,9 @@ const skillsSection = {
       "buidling and deploying android applications using Java with xml, Kotlin Modern UI Toolkit called Jetpack Compose., and Android Studio"
     ),
     emoji(
-      "building and deploying web applications using HTML, CSS, JavaScript, React, NodeJS, Express, and MongoDB"
+      "building and deploying web applications using HTML, CSS, JavaScript, React, NodeJS, Express"
     ),
-    emoji(
-      "Building predictive models to extract insights and make decisions out of data"
-    ),
+   
   ],
 
   softwareSkills: [
