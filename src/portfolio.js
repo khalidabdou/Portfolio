@@ -227,14 +227,14 @@ const Projects = {
     {
       title: "Wishes App 'android'",
       subtitle: "app for sharing wishes withs friends (images , quotes , stickers, wallpapers)",
-      picture: "https://www.appsflyer.com/wp-content/uploads/2021/10/Feature-image-917x480-2.png",
+      picture: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2022/04/switch_to_android_app_1.jpg?w=2500&quality=82&strip=all&ssl=1",
       link: "https://github.com/khalidabdou/GreenChina",
       color_code: ""
     },
      {
       title: "Test Friendships 'android'",
       subtitle: "android app for creating friendships test ",
-      picture: "https://www.appsflyer.com/wp-content/uploads/2021/10/Feature-image-917x480-2.png",
+      picture: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2022/04/switch_to_android_app_1.jpg?w=2500&quality=82&strip=all&ssl=1",
       link: "https://github.com/khalidabdou/TestFriends_JetPackCompose",
       color_code: ""
     },
@@ -248,7 +248,7 @@ const Projects = {
      {
       title: "Quiz App for kids 'android'",
       subtitle: "android app for kids to learn tamazight language",
-      picture: "https://www.appsflyer.com/wp-content/uploads/2021/10/Feature-image-917x480-2.png",
+      picture: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2022/04/switch_to_android_app_1.jpg?w=2500&quality=82&strip=all&ssl=1",
       link: "https://github.com/khalidabdou/QuizTamazight",
       color_code: ""
     },
@@ -269,7 +269,7 @@ const Projects = {
      {
       title: "Stcikers App 'android'",
       subtitle: "app stickers for whatsapp using jetpack compose",
-      picture: "https://www.appsflyer.com/wp-content/uploads/2021/10/Feature-image-917x480-2.png",
+      picture: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2022/04/switch_to_android_app_1.jpg?w=2500&quality=82&strip=all&ssl=1",
       link: "https://github.com/khalidabdou/StickerJetpackComp",
       color_code: ""
     },
