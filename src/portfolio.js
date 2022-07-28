@@ -204,8 +204,8 @@ const blogSection = {
   blogs: [
     {
       url:
-        "https://github.com/khalidabdou/TestFriends_JetPackCompose/blob/master/app/src/main/java/com/example/testfriends_jetpackcompose/screen/LoginScreen.kt",
-      title: "UI LOGIN USING JETPACK COMPOSE",
+        "https://blog.khalidabdellah.com/",
+      title: "Vistie my blog",
       description:
         "",
     },

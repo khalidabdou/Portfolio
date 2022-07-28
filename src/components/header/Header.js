@@ -37,7 +37,7 @@ function Header() {
           </li>*/}
          
           <li>
-            <a href="#blogs">Blogs</a>
+            <a href="https://blog.khalidabdellah.com/" target="_balnck">Blogs</a>
           </li>
           {/*<li>
             <a href="#talks">Talks</a>
